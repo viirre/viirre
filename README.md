@@ -1,7 +1,7 @@
 ## 💫 About Me:
-- 🔭 I'm working on fun web dev stuff @ [Adaptive media](https://github.com/adaptivemedia)
-- 🌱 I'm learning all sorts of stuff with modern web dev, performance stuff and AI
-- 😄 Fun fact - super cocktail guy 🍸
+- 🔭 I'm working on fun web dev, dev-ops and AI stuff @ [Adaptive media](https://github.com/adaptivemedia)
+- 🌱 All about modern web dev, performance, dev-ops and lots of AI
+- 😄 Fun fact - a cocktail guy 🍸
 
 
 ## 🌐 Socials:
